@@ -1,0 +1,3 @@
+Sitemap: https://hritikkumbhar.com/sitemap.xml
+User-agent: *
+Disallow: /test/

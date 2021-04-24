@@ -1,0 +1,144 @@
+{
+    "basics": {
+        "name": "Hritik Kumbhar",
+        "label": "Computer Science student",
+        "email": "hritikkumbhar132@gmail.com",
+        "phone": "+91 xxx xxx xxxx",
+        "picture": "hritik.png",
+        "x_title": "Hey, I'm",
+        "job": "CSE student",
+        "description": "Hey, I'm Hritik Kumbhar, a Computer Science Engineering student based in Odisha, India. I love all things technical. Talk soon!",
+        "summary": "based in Odisha, India.",
+        "keywords": "personal,website,portfolio,template,kit,hritik,hritikkumbhar,lucifer,computer,science,odisha,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://hritikkumbhar.com",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Odisha",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "INDIAN"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "hritikkumbhar132@gmail.com",
+                "url": "mailto:hritikkumbhar132@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Hritik Kumbhar",
+                "url": "https://www.linkedin.com/in/hritik-kumbhar-188b02165/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "th31ucif3r",
+                "url": "https://github.com/1ucif3r",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Instagram",
+                "username": "th3_1ucif3r",
+                "url": "https://www.instagram.com/th3_1ucif3r/",
+                "x_icon": "fab fa-instagram"
+            },
+            {
+                "network": "Telegram",
+                "username": "тн3_1υ¢ιf3я ©",
+                "url": "https://t.me/HritikKumbhar",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Th31ucif3r",
+                "username": "th31ucif3r.in",
+                "url": "https://th31ucif3r.in/",
+                "x_icon": "fas fa-heading"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
