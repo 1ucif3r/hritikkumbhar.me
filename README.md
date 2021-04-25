@@ -1,6 +1,6 @@
 # HRITIK KUMBHAR
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/db7fb601-acb3-4646-bfae-f949b14a5bd4/deploy-status)](https://app.netlify.com/sites/hritikkumbhar/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98201cb0-aab7-4569-b9c7-5f73f36d1414/deploy-status)](https://app.netlify.com/sites/hritikkumbhar/deploys)
 
 
 If you improve the app in any way a pull request would be very much appreciated ✌️
