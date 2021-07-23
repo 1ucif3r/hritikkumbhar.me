@@ -1,0 +1,68 @@
+{
+    "basics": {
+        "name": "Hritik Kumbhar",
+        "label": "Computer Science student",
+        "email": "hritikkumbhar132@gmail.com",
+        "phone": "+91 xxx xxx xxxx",
+        "picture": "hritik.png",
+        "x_title": "Hey, I'm",
+        "job": "CSE student",
+        "description": "Hey, I'm Hritik Kumbhar, a Computer Science Engineering student based in Odisha, India. Talk soon!",
+        "summary": "based in Odisha, India.",
+        "keywords": "personal,website,portfolio,template,kit,hritik,hritikkumbhar,lucifer,computer,science,odisha,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://hritikkumbhar.me",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Odisha",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "INDIAN"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "hritikkumbhar132@gmail.com",
+                "url": "mailto:hritikkumbhar132@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Hritik Kumbhar",
+                "url": "https://www.linkedin.com/in/hritik-kumbhar-188b02165/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "th31ucif3r",
+                "url": "https://github.com/1ucif3r",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Instagram",
+                "username": "th3_1ucif3r",
+                "url": "https://www.instagram.com/th3_1ucif3r/",
+                "x_icon": "fab fa-instagram"
+            },
+            {
+                "network": "Telegram",
+                "username": "LUCIFER",
+                "url": "https://t.me/th31ucif3r",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "DEDSEC",
+                "url": "https://dsc.gg/teamdedsec",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    
+    "references": [
+        {
+            "name": "Hritik Kumbhar",
+            "reference": "Reference..."
+        }
+    ]
+}
